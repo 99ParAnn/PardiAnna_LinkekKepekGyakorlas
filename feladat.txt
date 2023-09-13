@@ -1,0 +1,28 @@
+
+A github repo nevét az alábbi formában adja meg: SajatNev_LinkekKepekGyakorlas
+
+1. feladat
+Hozz létre egy oldalt (nyitólap - index.html), amely álljon 5 bekezdésből. Az oldal tetején legyen egy "menü", ami az oldalon látható bekezdésekre navigál.
+
+Készíts további 3 egyszerű HTML oldalt, amelyek egymásra mutató linket tartalmaznak. (első -> második, második -> harmadik). Mindhárom oldalon helyezz el hivatkozást 
+a nyitólapra.
+
+Hozz létre egy 4. oldalt is, amely a 'kapcsolat' almappában lett létrehozva, majd a nyitólapon hivatkozz erre a weblapra! A weblapon tüntesd fel az elérhetőséged. 
+(telefonszám, email cím)
+
+Hozz létre egy 'letoltesek' és egy 'dokumentumok' mappát is. Ezekbe helyezz el dokumentumokat, és helyezz el hivatkozásokat a nyitólapon ezekre a mappákra.
+
+
+
+
+
+
+2. feladat
+Készíts egy galeria.html oldalt.
+
+Helyezz el az oldalon 4-5 képet. A képeket egy 'kepek' mappába helyezd el. Állítsd be, hogy egy-egy szöveg jelenjen meg, ha az egeret a képek fölé visszük, vagy a képek 
+valami miatt nem jeleníthetők meg.
+
+A nyitólapon helyezz el képet, amelyre kattintva egy új lapon a galeria.html oldal nyílik meg.
+
+Helyezz el külső hivatkozásokat a nyitólapon, melyek a HTML képekről és hivatkozásokról szólnak.
