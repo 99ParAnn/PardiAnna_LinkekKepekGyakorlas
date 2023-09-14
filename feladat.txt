@@ -3,7 +3,6 @@ A github repo nevét az alábbi formában adja meg: SajatNev_LinkekKepekGyakorla
 
 1. feladat
 Hozz létre egy oldalt (nyitólap - index.html), amely álljon 5 bekezdésből. Az oldal tetején legyen egy "menü", ami az oldalon látható bekezdésekre navigál.
-
 Készíts további 3 egyszerű HTML oldalt, amelyek egymásra mutató linket tartalmaznak. (első -> második, második -> harmadik). Mindhárom oldalon helyezz el hivatkozást 
 a nyitólapra.
 
